@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /?setup=1
+Sitemap: https://REPLACE-WITH-REAL-VERCEL-DOMAIN/sitemap.xml
